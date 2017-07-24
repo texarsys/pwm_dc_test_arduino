@@ -1,0 +1,8 @@
+# Source files
+# ============
+*.py 		text
+*.ino 		text
+
+# Binary files
+# ============
+*.xlsx		binary
